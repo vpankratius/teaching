@@ -1,5 +1,5 @@
-# Python - A Crash Course by Example
-Dr. Victor Pankratius, MIT
+## Python - A Crash Course by Example
+Dr. Victor Pankratius, MIT<br>
 www.victorpankratius.com
 
 This material aims to bring you up to speed with Python. It assumes you already know another programming language. I'm trying to be as concise as possible, I don't want to waste your time.
